@@ -1,13 +1,39 @@
-# 📌 Mapas Mentales de Git y GitHub
+# Mapas conceptuales – Clase del martes
 
-## 🧠 Introducción a Git
-![Mapa 1](Mapa1)
+Este repositorio contiene los mapas conceptuales trabajados en la clase del martes,
+relacionados con el análisis de procesos y la ingeniería de sistemas.
 
-## ⚙️ Comandos en Git
-![Mapa 2](Mapa2)
+## Objetivo
+Presentar de forma visual y estructurada los conceptos vistos en clase mediante mapas conceptuales.
 
-## 🔄 Flujo de trabajo en Git
-![Mapa 3](Mapa3)
+## Contenido de los mapas
 
-## 🌐 Repositorios remotos en GitHub
-![Mapa 4](Mapa4)
+### 🗺️ Mapa 1 – Teoría General de Sistemas
+Representa el concepto de sistema como un conjunto de elementos interrelacionados,
+mostrando entradas, procesos, salidas y retroalimentación.
+
+![Mapa 1](Mapa1.png)
+
+---
+
+### 🗺️ Mapa 2 – Procesos a Nivel de Negocio
+Describe cómo una organización transforma insumos en resultados,
+enfocándose en los procesos clave del negocio.
+
+![Mapa 2](Mapa2.png)
+
+---
+
+### 🗺️ Mapa 3 – Análisis de Procesos
+Muestra el análisis detallado de los procesos,
+identificando actividades, responsables y mejoras posibles.
+
+![Mapa 3](Mapa3.png)
+
+---
+
+### 🗺️ Mapa 4 – Ingeniería de Requisitos
+Explica la importancia de recopilar, analizar y documentar
+los requisitos del sistema para garantizar su correcto desarrollo.
+
+![Mapa 4](Mapa4.png)
